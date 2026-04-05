@@ -1,0 +1,11 @@
+.bg-primary {
+  @apply bg-blue-500;
+}
+
+.text-primary {
+  @apply text-white;
+}
+
+body {
+  @apply font-sans;
+}
